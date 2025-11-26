@@ -5,7 +5,7 @@ import './App.css'
 
 function App() {
   const [count, setCount] = useState(0)
-  text = 'V5 from var'
+  
   return (
     <>
       <div>
